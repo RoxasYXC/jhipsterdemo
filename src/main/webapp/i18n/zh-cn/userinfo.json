@@ -1,0 +1,25 @@
+
+{
+    "testApp": {
+        "userinfo" : {
+            "home": {
+                "title": "Userinfos",
+                "createLabel": "创建新 Userinfo",
+                "createOrEditLabel": "创建或编辑 Userinfo",
+                "search": "查找 Userinfo"
+            },
+            "created": "Userinfo {{ param }} 创建成功",
+            "updated": "Userinfo {{ param }} 更新成功",
+            "deleted": "Userinfo {{ param }} 删除成功",
+            "delete": {
+                "question": "你确定要删除 Userinfo {{ id }} 吗？"
+            },
+            "detail": {
+                "title": "Userinfo"
+            },
+            "loginid": "Loginid",
+            "password": "Password",
+            "name": "Name"
+        }
+    }
+}

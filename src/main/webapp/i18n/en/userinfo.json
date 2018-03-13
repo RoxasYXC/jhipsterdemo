@@ -1,0 +1,25 @@
+
+{
+    "testApp": {
+        "userinfo" : {
+            "home": {
+                "title": "Userinfos",
+                "createLabel": "Create a new Userinfo",
+                "createOrEditLabel": "Create or edit a Userinfo",
+                "search": "Search for Userinfo"
+            },
+            "created": "A new Userinfo is created with identifier {{ param }}",
+            "updated": "A Userinfo is updated with identifier {{ param }}",
+            "deleted": "A Userinfo is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Userinfo {{ id }}?"
+            },
+            "detail": {
+                "title": "Userinfo"
+            },
+            "loginid": "Loginid",
+            "password": "Password",
+            "name": "Name"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+entity Userinfo {
+	id Long
+    loginid String
+    password String
+    name String
+}
+
